@@ -68,83 +68,83 @@ export default function SubsidySection() {
               <tbody className="text-center">
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">1 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">19,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">54,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">15,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">45,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">74,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">20,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">29,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">2 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">64,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">99,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">60,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">90,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">1,44,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">45,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">54,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">3 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">1,94,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">77,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">86,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">4 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">2,49,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">1,32,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">1,41,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">5 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">2,99,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">1,82,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">1,91,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">6 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">3,39,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">2,22,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">2,31,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">7 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">3,94,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">2,77,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">2,86,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">8 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">4,09,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">2,92,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">3,01,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">9 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">4,59,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">3,42,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">3,51,000</td>
                 </tr>
                 <tr className="hover:bg-gray-50 transition-colors">
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold text-blue-900">10 KW</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">82,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">34,500</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,17,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">78,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">30,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5 font-semibold">1,08,000</td>
                   <td className="border border-gray-300 px-2 md:px-3 py-1.5 bg-yellow-50 font-bold text-orange-600">5,09,000</td>
-                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">3,92,000</td>
+                  <td className="border border-gray-300 px-2 md:px-3 py-1.5">4,01,000</td>
                 </tr>
               </tbody>
             </table>
@@ -211,7 +211,7 @@ export default function SubsidySection() {
 
             <div>
               <label htmlFor="capacity" className="block text-sm font-semibold text-gray-700 mb-2">
-                System Capacity *
+                PM Surya Ghar Yojana *
               </label>
               <select
                 id="capacity"
@@ -221,17 +221,13 @@ export default function SubsidySection() {
                 required
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition bg-white"
               >
-                <option value="">Select capacity</option>
-                <option value="1kw">1 KW</option>
-                <option value="2kw">2 KW</option>
-                <option value="3kw">3 KW</option>
-                <option value="4kw">4 KW</option>
-                <option value="5kw">5 KW</option>
-                <option value="6kw">6 KW</option>
-                <option value="7kw">7 KW</option>
-                <option value="8kw">8 KW</option>
-                <option value="9kw">9 KW</option>
-                <option value="10kw">10 KW</option>
+                <option value="">Select PM Surya Ghar Yojana</option>
+                <option value="ongrid-residence">On grid (residence)</option>
+                <option value="ongrid-commercial">On grid (commercial)</option>
+                <option value="offgrid-residence">Off-grid (residence)</option>
+                <option value="offgrid-commercial">Off-grid (commercial)</option>
+                <option value="hybrid-residence">Hybrid (residence)</option>
+                <option value="hybrid-commercial">Hybrid (commercial)</option>
               </select>
             </div>
 

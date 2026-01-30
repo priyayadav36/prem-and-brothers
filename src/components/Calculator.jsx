@@ -3,24 +3,24 @@ import { useState, useEffect } from "react";
 
 export default function Calculator() {
   const [capacity, setCapacity] = useState(1);
-  const [centralSubsidy, setCentralSubsidy] = useState(34500);
-  const [stateSubsidy, setStateSubsidy] = useState(19500);
-  const [totalSubsidy, setTotalSubsidy] = useState(54000);
+  const [centralSubsidy, setCentralSubsidy] = useState(30000);
+  const [stateSubsidy, setStateSubsidy] = useState(15000);
+  const [totalSubsidy, setTotalSubsidy] = useState(45000);
   const [totalCost, setTotalCost] = useState(74000);
-  const [netCost, setNetCost] = useState(20000);
+  const [netCost, setNetCost] = useState(29000);
 
   // Corrected subsidy data matching the table
   const subsidyData = {
-    1: { central: 34500, state: 19500, total: 54000, cost: 74000, net: 20000 },
-    2: { central: 64500, state: 34500, total: 99000, cost: 144000, net: 45000 },
-    3: { central: 82500, state: 34500, total: 117000, cost: 194000, net: 77000 },
-    4: { central: 82500, state: 34500, total: 117000, cost: 249000, net: 132000 },
-    5: { central: 82500, state: 34500, total: 117000, cost: 299000, net: 182000 },
-    6: { central: 82500, state: 34500, total: 117000, cost: 339000, net: 222000 },
-    7: { central: 82500, state: 34500, total: 117000, cost: 394000, net: 277000 },
-    8: { central: 82500, state: 34500, total: 117000, cost: 409000, net: 292000 },
-    9: { central: 82500, state: 34500, total: 117000, cost: 459000, net: 342000 },
-    10: { central: 82500, state: 34500, total: 117000, cost: 509000, net: 392000 },
+    1: { central: 30000, state: 15000, total: 45000, cost: 74000, net: 29000 },
+    2: { central: 60000, state: 30000, total: 90000, cost: 144000, net: 54000 },
+    3: { central: 78000, state: 30000, total: 108000, cost: 194000, net: 86000 },
+    4: { central: 78000, state: 30000, total: 108000, cost: 249000, net: 141000 },
+    5: { central: 78000, state: 30000, total: 108000, cost: 299000, net: 191000 },
+    6: { central: 78000, state: 30000, total: 108000, cost: 339000, net: 231000 },
+    7: { central: 78000, state: 30000, total: 108000, cost: 394000, net: 286000 },
+    8: { central: 78000, state: 30000, total: 108000, cost: 409000, net: 301000 },
+    9: { central: 78000, state: 30000, total: 108000, cost: 459000, net: 351000 },
+    10: { central: 78000, state: 30000, total: 108000, cost: 509000, net: 401000 },
   };
 
   // Update subsidy data when capacity changes
@@ -197,7 +197,7 @@ export default function Calculator() {
                   Central Government Subsidy
                 </h3>
                 <p className="text-gray-700">
-                  Ministry of New & Renewable Energy (MNRE) provides subsidy up to ₹82,500 
+                  Ministry of New & Renewable Energy (MNRE) provides subsidy up to ₹78,000 
                   for rooftop solar installations to promote clean energy adoption.
                 </p>
               </div>
@@ -207,7 +207,7 @@ export default function Calculator() {
                   State Government Benefits
                 </h3>
                 <p className="text-gray-700">
-                  Uttar Pradesh offers additional subsidy of up to ₹34,500, making solar 
+                  Uttar Pradesh offers additional subsidy of up to ₹30,000, making solar 
                   installation more affordable for residents.
                 </p>
               </div>
@@ -217,7 +217,7 @@ export default function Calculator() {
                   Key Benefits
                 </h3>
                 <ul className="list-disc list-inside space-y-1 text-gray-700">
-                  <li>Combined subsidy up to ₹1.17 Lakhs</li>
+                  <li>Combined subsidy up to ₹1.08 Lakhs</li>
                   <li>Reduce electricity bills by 80-90%</li>
                   <li>25+ years solar panel lifespan</li>
                   <li>Environmental impact - reduce carbon footprint</li>
